@@ -1,0 +1,39 @@
+{
+  "GameName": "LongDrive",
+  "ActiveZones": {
+    "Bangladesh": [
+      {
+        "SpotName": "Bandarban-Nilgiri",
+        "RoadType": "Extreme Mountain Pass",
+        "Terrain": "Dense Forest & Cliffs",
+        "Difficulty": "High",
+        "DefaultWeather": "Foggy_Rainy"
+      },
+      {
+        "SpotName": "CoxsBazar-MarineDrive",
+        "RoadType": "Coastal Highway",
+        "Terrain": "Sea Beach & Plains",
+        "Difficulty": "Low",
+        "DefaultWeather": "Cloudy"
+      }
+    ],
+    "India": [
+      {
+        "SpotName": "Kashmir-Leh-Ladakh",
+        "RoadType": "Off-Road Mountain",
+        "Terrain": "Snowy Rocks & Valleys",
+        "Difficulty": "Expert",
+        "DefaultWeather": "Overcast"
+      }
+    ],
+    "Europe": [
+      {
+        "SpotName": "Switzerland-Alps",
+        "RoadType": "Smooth Highway",
+        "Terrain": "Green Meadows & Bridges",
+        "Difficulty": "Medium",
+        "DefaultWeather": "Rainy"
+      }
+    ]
+  }
+}
