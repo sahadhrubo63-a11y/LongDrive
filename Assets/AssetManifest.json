@@ -1,0 +1,39 @@
+{
+  "ProjectName": "LongDrive",
+  "AssetCategory": "Multi-Brand Vehicles",
+  "Manifest": [
+    {
+      "Brand": "Toyota",
+      "ModelType": "SUV",
+      "LogoPath": "Assets/Logos/toyota_hd.png",
+      "InteriorModel": "Assets/Interiors/suv_cockpit_v1.fbx",
+      "FunctionalDashboard": {
+        "Wipers": true,
+        "DigitalRPM": false,
+        "AnalogSpeedo": true
+      }
+    },
+    {
+      "Brand": "BMW",
+      "ModelType": "Sedan",
+      "LogoPath": "Assets/Logos/bmw_hd.png",
+      "InteriorModel": "Assets/Interiors/sedan_cockpit_luxury.fbx",
+      "FunctionalDashboard": {
+        "Wipers": true,
+        "DigitalRPM": true,
+        "AnalogSpeedo": false
+      }
+    },
+    {
+      "Brand": "Jeep",
+      "ModelType": "Off-Road",
+      "LogoPath": "Assets/Logos/jeep_hd.png",
+      "InteriorModel": "Assets/Interiors/jeep_rugged_cockpit.fbx",
+      "FunctionalDashboard": {
+        "Wipers": true,
+        "DigitalRPM": false,
+        "AnalogSpeedo": true
+      }
+    }
+  ]
+}
