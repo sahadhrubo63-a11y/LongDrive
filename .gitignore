@@ -1,0 +1,12 @@
+# Unreal Engine 5 Git Ignore Template for LongDrive Project
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Autosave/
+Architecture/
+.vs/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
